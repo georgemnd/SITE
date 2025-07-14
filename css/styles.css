@@ -188,14 +188,17 @@ a {
 
 .icon--primary {
     fill: var(--color-primary);
+    color: var(--color-primary);
 }
 
 .icon--secondary {
     fill: var(--color-secondary);
+    color: var(--color-secondary);
 }
 
 .icon--accent {
     fill: var(--color-accent);
+    color: var(--color-accent);
 }
 
 .icon-container {
