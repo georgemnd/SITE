@@ -340,6 +340,12 @@ a {
     border-radius: 7px;
     box-shadow: 0 0 20px 10px #f3f3f3;
     overflow: hidden;
+    transition: transform 0.2s ease, box-shadow 0.5s ease;
+}
+
+.card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 20px 10px #e0e0e0;
 }
 
 .card__header,
