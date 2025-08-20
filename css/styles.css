@@ -24,11 +24,6 @@
     margin: 0 auto;
 }
 
-.logo {
-  width: 200px;
-  height: auto;
-}
-
 /* Typography ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
 
 html {
@@ -632,7 +627,7 @@ a {
     max-height: 0;
     overflow: hidden;
     opacity: 0;
-    transition: all 0.3s;
+    transition: all 0.4s;
 }
 
 .collapsible--expanded .collapsible__chevron {
@@ -683,6 +678,69 @@ a {
 .nav {
     background: #000;
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
+    padding: 1rem;
 }
 
+.nav__header {
+    width: 100vw;
+    align-items: center;
+}
+
+.nav__logo {
+  width: 200px;
+  height: auto;
+}
+
+.nav__list {
+    width: 100%;
+    margin: 0;
+}
+
+.nav__item {
+    padding: 0.5rem 2rem;
+    border-bottom: 1px solid #222;
+}
+
+.nav__item > a {
+    color: #d2d0db;
+    transition: color 0.3s;
+}
+
+.nav__item > a:hover {
+    color: #fff;
+}
+
+.nav__toggler {
+    cursor: pointer;
+    opacity: 0.5;
+    transition: opacity 0.3s ease-out;
+}
+
+.nav__toggler:hover {
+    opacity: 1;
+}
+
+.nav.collapsible--expanded .nav__toggler {
+    opacity: 1;
+    border-radius: 5px;
+}
+
+.nav.collapsible--expanded .nav__toggler:hover {
+    opacity: 0.5;
+}
+
+@media screen and (min-width: 768px) {
+    .nav__toggler {
+        display: none;
+    }
+
+    .nav__header {
+        width: auto;
+    }
+
+    .nav__list {
+        width: auto;
+    }
+}
