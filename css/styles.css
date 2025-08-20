@@ -681,6 +681,7 @@ a {
     flex-wrap: wrap;
     justify-content: space-between;
     padding: 1rem;
+    align-items: center;
 }
 
 .nav__header {
@@ -737,10 +738,19 @@ a {
     }
 
     .nav__header {
-        width: auto;
+        width:fit-content;
     }
 
     .nav__list {
         width: auto;
+        display: flex;
+        font-size: 1.6rem;
+        max-height: 100%;
+        opacity: 1;
+    }
+
+    .nav__item {
+        border: 0;
+        padding: 0 2rem;
     }
 }
