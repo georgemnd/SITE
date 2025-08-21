@@ -20,7 +20,7 @@
 }
 
 .container {
-    max-width: 1140px;
+    max-width: 1500px;
     margin: 0 auto;
 }
 
@@ -60,9 +60,9 @@ p {
     margin-top: 0;
 }
     
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 1024px) {
     body {
-        font-size: 1.8rem;
+        font-size: 2rem;
     }
 
     h1 {
@@ -74,7 +74,7 @@ p {
     }
 
     h3 {
-        font-size: 2.4rem;
+        font-size: 3rem;
     }
 }
 
@@ -136,11 +136,11 @@ a {
 
 @media screen and (min-width: 1024px) {
     .badge {
-        font-size: 1.5rem;
+        font-size: 1.8rem;
     }
 
     .badge--small {
-        font-size: 1.2rem;
+        font-size: 1.5rem;
     }
 }
 
@@ -176,7 +176,7 @@ a {
 }
 
 .later--list {
-    padding-bottom: 3rem;
+    padding-bottom: 1.5rem;
 }
 
 @media screen and (min-width: 1024px) {
@@ -391,7 +391,7 @@ a {
 }
 
 .plan:hover {
-    transform: scale(1.03);
+    transform: scale(1.05);
     box-shadow: 0 0 20px 10px #e0e0e0;
 }
 
@@ -439,19 +439,27 @@ a {
 
 @media screen and (min-width: 1024px) {
     .plan__name {
-        font-size: 1.4rem;
+        font-size: 2rem;
     }
 
     .plan__price {
-        font-size: 5rem;
+        font-size: 6rem;
     }
 
     .plan__billing-cycle {
-        font-size: 1.6rem;
+        font-size: 2.2rem;
     }
 
     .plan__description {
-        font-size: 1.7rem;
+        font-size: 2.3rem;
+    }
+
+    .plan--popular {
+        transform: scale(1.1);
+    }
+
+    .plan--popular:hover {
+        transform: scale(1.15);
     }
 }
 
@@ -535,7 +543,7 @@ a {
     }
 }
 
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 1350px) {
     .grid--1x3 {
         grid-template-columns: repeat(3, 1fr);
     }
@@ -764,7 +772,7 @@ a {
     }
 }
 
-/* Heroe ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
+/* Hero ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
 
 .hero {
     clip-path: polygon(0% 0%, 100% 0%, 100% 90%, 0% 100%);
@@ -820,4 +828,20 @@ a {
     .block-domain__prices {
         grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
     }
+}
+
+/* Plans Block ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
+
+.block-plans .plan {
+    max-width: 1000px;
+    margin: 0 3rem;
+}
+
+.block-plans .grid {
+    gap: 8rem 4rem;
+    justify-content: center;
+}
+
+@media screen and (min-width: 1024px) {
+    
 }
