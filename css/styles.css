@@ -159,10 +159,6 @@ a {
     margin-bottom: 0;
 }
 
-.list--white {
-
-}
-
 .list--tick {
     list-style-image: url(../images/tick.svg);
     padding-left: 3rem;
@@ -583,6 +579,12 @@ a {
 
 
 @media screen and (min-width: 768px) {
+    .testimonial .grid--1x2 {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media screen and (min-width: 768px) {
     .testimonial .quote,
     .testimonial .quote__author {
         font-size: 2.4rem;
@@ -676,6 +678,7 @@ a {
 }
 
 .block__header {
+    margin-bottom: 4rem;
     text-align: center;
 }
 
