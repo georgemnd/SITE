@@ -22,7 +22,7 @@
 }
 
 .container {
-    max-width: 1140px;
+    max-width: 1440px;
     margin: 0 auto;
 }
 
@@ -38,7 +38,6 @@ html {
 }
 
 body {
-    margin: 10px;
     font-family: Inter, Arial, Helvetica, sans-serif;
     font-size: 2.4rem;
     line-height: 1.5;
@@ -259,7 +258,7 @@ a {
     font-weight: 600;
     margin: 1rem 0;
     outline: 0;
-    padding: 2rem 3rem;
+    padding: 2rem 4vw;
     text-align: center;
     text-transform: uppercase;
     transition: all 0.5s ease;
@@ -329,6 +328,12 @@ a {
 @media screen and (min-width: 1024px) {
     .btn {
         font-size: 1.5rem;
+        padding: 2rem 3rem;
+    }
+
+    .btn--stretched {
+        padding-left: 6rem;
+        padding-right: 6rem;
     }
 }
 
@@ -357,6 +362,7 @@ a {
     border: 0;
     flex-grow: 1;
     padding: 1.5rem 2rem ;
+    width: 0;
 }
 
 .input-group .btn {
@@ -611,6 +617,10 @@ a {
     border-radius: 5px;
 }
 
+.callout-signup {
+  transform: translateY(5rem);
+}
+
 .callout--primary {
     background: var(--color-primary);
     color: #fff;
@@ -793,7 +803,7 @@ a {
     }
 }
 
-/* Hero ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
+/* Hero Block ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
 
 .hero__tagline {
     font-size: 2rem;
@@ -828,9 +838,10 @@ a {
 
 .block-domain__prices {
     display: grid;
+    color: var(--color-heading);
     font-size: 2rem;
     font-weight: 600;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(2, 6rem);
     justify-items: center;
     margin: 0 auto;
@@ -841,11 +852,18 @@ a {
     font-size: 2rem;
 }
 
+@media screen and (min-width: 425px) {
+    .block-domain__prices {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
 @media screen and (min-width: 768px) {
     .block-domain__prices {
         grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
     }
 }
+
 
 /* Plans Block ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
 
