@@ -22,17 +22,27 @@
       <nav class="nav collapsible">
         <header class="collapsible__header nav__header">
           <a href="/"
-            ><img class="logo" src="images/skyfy-logo-wordmark.svg" alt=""
+            ><img
+              class="logo"
+              data-aos="zoom-in"
+              src="images/skyfy-logo-wordmark.svg"
+              alt=""
           /></a>
-          <svg class="icon icon--white nav__toggler">
+          <svg data-aos="zoom-in-right" class="icon icon--white nav__toggler">
             <use xlink:href="images/sprite.svg#menu"></use>
           </svg>
         </header>
         <ul class="list nav__list collapsible__content">
-          <li class="nav__item"><a href="#">Hosting</a></li>
-          <li class="nav__item"><a href="#">VPS</a></li>
-          <li class="nav__item"><a href="#">Domain</a></li>
-          <li class="nav__item"><a href="#">Pricing</a></li>
+          <li data-aos="zoom-in-left" class="nav__item">
+            <a href="#">Hosting</a>
+          </li>
+          <li data-aos="zoom-in-left" class="nav__item"><a href="#">VPS</a></li>
+          <li data-aos="zoom-in-left" class="nav__item">
+            <a href="#">Domain</a>
+          </li>
+          <li class="nav__item" data-aos="zoom-in-left">
+            <a href="#">Pricing</a>
+          </li>
         </ul>
       </nav>
     </header>
@@ -40,13 +50,15 @@
     <section class="block block--dark block--skewed-left hero">
       <div class="container grid grid--1x2">
         <header class="block__header hero__content">
-          <h1>Cloud Hosting for Pros</h1>
-          <p class="hero__tagline">
+          <h1 data-aos="zoom-in">Cloud Hosting for Pros</h1>
+          <p class="hero__tagline" data-aos="fade-up">
             Deploy your websites in less than a minute.
           </p>
-          <a class="btn btn--accent btn--stretched" href="#">Get Started</a>
+          <a class="btn btn--accent btn--stretched" data-aos="fade-up" href="#"
+            >Get Started</a
+          >
         </header>
-        <picture>
+        <picture data-aos="zoom-in">
           <source
             type="image/png"
             srcset="
@@ -60,14 +72,14 @@
       </div>
     </section>
 
-    <section class="block container block-domain">
+    <section class="block container block-domain" data-aos="fade-up">
       <header class="block__header">
         <h2>Starting at $5/month</h2>
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem, quam!
         </p>
       </header>
-      <div class="input-group">
+      <div class="input-group" data-aos="fade-down">
         <input
           type="text"
           class="input"
@@ -83,16 +95,18 @@
         >
       </div>
       <ul class="list block-domain__prices">
-        <li>.com 9€</li>
-        <li><span class="badge badge--secondary">.ro 8€</span></li>
-        <li>.eu 6€</li>
-        <li>.space 7€</li>
-        <li>.info 5€</li>
-        <li>.net 5.5€</li>
+        <li data-aos="zoom-in">.com 9€</li>
+        <li data-aos="zoom-in">
+          <span class="badge badge--secondary">.ro 8€</span>
+        </li>
+        <li data-aos="zoom-in">.eu 6€</li>
+        <li data-aos="zoom-in">.space 7€</li>
+        <li data-aos="zoom-in">.info 5€</li>
+        <li data-aos="zoom-in">.net 5.5€</li>
       </ul>
     </section>
 
-    <section class="block container block-plans">
+    <section class="block container block-plans" data-aos="fade-up">
       <div class="grid grid--1x3">
         <div class="plan">
           <div class="card card--secondary">
@@ -173,7 +187,7 @@
         </p>
       </header>
       <article class="grid grid--1x2 feature">
-        <div class="feature__content">
+        <div class="feature__content" data-aos="fade-right">
           <span class="icon-container">
             <svg class="icon icon--primary">
               <use xlink:href="images/sprite.svg#easy"></use>
@@ -187,7 +201,7 @@
           </p>
           <a href="#" class="link-arrow">Learn More</a>
         </div>
-        <picture>
+        <picture data-aos="zoom-in-left">
           <source
             type="image/jpg"
             srcset="
@@ -200,7 +214,7 @@
         </picture>
       </article>
       <article class="grid grid--1x2 feature">
-        <div class="feature__content">
+        <div class="feature__content" data-aos="fade-left">
           <span class="icon-container">
             <svg class="icon icon--primary">
               <use xlink:href="images/sprite.svg#computer"></use>
@@ -215,7 +229,7 @@
           </p>
           <a href="#" class="link-arrow">Learn More</a>
         </div>
-        <picture>
+        <picture data-aos="zoom-in-right">
           <source
             type="image/jpg"
             srcset="
@@ -228,7 +242,7 @@
         </picture>
       </article>
       <article class="grid grid--1x2 feature">
-        <div class="feature__content">
+        <div class="feature__content" data-aos="fade-right">
           <span class="icon-container">
             <svg class="icon icon--primary">
               <use xlink:href="images/sprite.svg#wordpress"></use>
@@ -242,7 +256,7 @@
           </p>
           <a href="#" class="link-arrow">Learn More</a>
         </div>
-        <picture>
+        <picture data-aos="zoom-in-left">
           <source
             type="image/jpg"
             srcset="
@@ -259,7 +273,7 @@
         </picture>
       </article>
       <article class="grid grid--1x2 feature">
-        <div class="feature__content">
+        <div class="feature__content" data-aos="fade-left">
           <span class="icon-container">
             <svg class="icon icon--primary">
               <use xlink:href="images/sprite.svg#clock"></use>
@@ -273,7 +287,7 @@
           </p>
           <a href="#" class="link-arrow">Learn More</a>
         </div>
-        <picture>
+        <picture data-aos="zoom-in-right">
           <source
             type="image/jpg"
             srcset="
@@ -296,7 +310,7 @@
         <h2>User-friendly Control Panel</h2>
       </header>
       <div class="container grid grid--1x2">
-        <picture class="block-showcase__picture">
+        <picture class="block-showcase__picture" data-aos="slide-right">
           <source
             type="image/png"
             srcset="
@@ -307,7 +321,7 @@
           />
           <img src="images/ipad-original.png" alt="" />
         </picture>
-        <ul class="list">
+        <ul class="list" data-aos="slide-left">
           <li>
             <div class="media">
               <div class="media__image">
@@ -364,14 +378,14 @@
     </section>
 
     <section class="block">
-      <header class="block__header">
+      <header class="block__header" data-aos="fade-up">
         <h2>What Our Customers are Saying</h2>
         <p>
           Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aut,
           maiores.
         </p>
       </header>
-      <div class="container">
+      <div class="container" data-aos="zoom-in">
         <div class="card testimonial">
           <div class="grid grid--1x2">
             <div class="testimonial__image">
@@ -409,7 +423,7 @@
       </div>
     </section>
 
-    <div class="container">
+    <div class="container" data-aos="zoom-out">
       <div class="callout callout--primary callout-signup">
         <div class="grid grid--1x2">
           <div class="callout__content">
