@@ -69,19 +69,19 @@ p {
     
 @media screen and (min-width: 1024px) {
     body {
-        font-size: 2rem;
+        font-size: 2.2rem;
     }
 
     h1 {
-        font-size: 8rem;
+        font-size: 9rem;
     }
 
     h2 {
-        font-size: 4rem;
+        font-size: 5rem;
     }
 
     h3 {
-        font-size: 3rem;
+        font-size: 4rem;
     }
 }
 
@@ -804,6 +804,10 @@ a {
 }
 
 /* Hero Block ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
+
+.hero {
+    margin-top: -1px;
+}
 
 .hero__tagline {
     font-size: 2rem;
