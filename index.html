@@ -41,7 +41,7 @@
   <body>
     <header>
       <nav class="nav collapsible">
-        <header class="collapsible__header nav__header">
+        <div class="collapsible__header nav__header">
           <a href="/"
             ><img
               class="logo"
@@ -52,7 +52,7 @@
           <svg data-aos="zoom-in-right" class="icon icon--white nav__toggler">
             <use xlink:href="images/sprite.svg#menu"></use>
           </svg>
-        </header>
+        </div>
         <ul class="list nav__list collapsible__content">
           <li data-aos="zoom-in-left" class="nav__item">
             <a href="#">Hosting</a>
@@ -106,14 +106,12 @@
           class="input"
           placeholder="Enter domain name here..."
         />
-        <a href="javascript:void(0)"
-          ><button class="btn btn--accent">
-            <svg class="icon icon--white">
-              <use xlink:href="images/sprite.svg#search"></use>
-            </svg>
-            Search
-          </button></a
-        >
+        <a href="javascript:void(0)" class="btn btn--accent">
+          <svg class="icon icon--white">
+            <use xlink:href="images/sprite.svg#search"></use>
+          </svg>
+          Search
+        </a>
       </div>
       <ul class="list block-domain__prices">
         <li data-aos="zoom-in">.com 9€</li>
@@ -463,12 +461,12 @@
     <footer class="block block--dark footer">
       <div class="container grid footer__sections">
         <section class="collapsible footer__section">
-          <header class="collapsible__header">
+          <div class="collapsible__header">
             <h2 class="collapsible__heading footer__heading">Products</h2>
             <svg class="icon icon--white collapsible__chevron">
               <use xlink:href="images/sprite.svg#chevron"></use>
             </svg>
-          </header>
+          </div>
           <div class="collapsible__content">
             <ul class="list">
               <li><a href="#">WordPress Hosting</a></li>
@@ -480,12 +478,12 @@
           </div>
         </section>
         <section class="collapsible footer__section">
-          <header class="collapsible__header">
+          <div class="collapsible__header">
             <h2 class="collapsible__heading footer__heading">Company</h2>
             <svg class="icon icon--white collapsible__chevron">
               <use xlink:href="images/sprite.svg#chevron"></use>
             </svg>
-          </header>
+          </div>
           <div class="collapsible__content">
             <ul class="list">
               <li><a href="#">About</a></li>
@@ -499,12 +497,12 @@
           </div>
         </section>
         <section class="collapsible footer__section">
-          <header class="collapsible__header">
+          <div class="collapsible__header">
             <h2 class="collapsible__heading footer__heading">Support</h2>
             <svg class="icon icon--white collapsible__chevron">
               <use xlink:href="images/sprite.svg#chevron"></use>
             </svg>
-          </header>
+          </div>
           <div class="collapsible__content">
             <ul class="list">
               <li><a href="#">Contact</a></li>
@@ -517,12 +515,12 @@
           </div>
         </section>
         <section class="collapsible footer__section">
-          <header class="collapsible__header">
+          <div class="collapsible__header">
             <h2 class="collapsible__heading footer__heading">Domains</h2>
             <svg class="icon icon--white collapsible__chevron">
               <use xlink:href="images/sprite.svg#chevron"></use>
             </svg>
-          </header>
+          </div>
           <div class="collapsible__content">
             <ul class="list">
               <li><a href="#">Domain Checker</a></li>
@@ -533,10 +531,10 @@
             </ul>
           </div>
         </section>
-        <section class="footer__brand">
+        <div class="footer__brand">
           <img class="logo" src="images/skyfy-logo-wordmark.svg" alt="" />
-          <p class="footer__copyright">Copyright &copy 2025 George Mondea</p>
-        </section>
+          <p class="footer__copyright">Copyright &copy; 2025 George Mondea</p>
+        </div>
       </div>
     </footer>
 
