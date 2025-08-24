@@ -34,7 +34,6 @@
       rel="stylesheet"
     />
 
-    <link rel="stylesheet" href="css/normalize.css" />
     <link rel="stylesheet" href="css/styles.css" />
     <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
   </head>
@@ -42,12 +41,11 @@
     <header>
       <nav class="nav collapsible">
         <div class="collapsible__header nav__header">
-          <a href="/">
+          <a aria-label="Skyfy" href="/">
             <img
               class="logo"
               data-aos="zoom-in"
               src="images/skyfy-logo-wordmark.svg"
-              src="public/images/skyfy-logo-wordmark.svg"
               alt=""
             />
           </a>
@@ -109,6 +107,7 @@
       </header>
       <div class="input-group" data-aos="fade-down">
         <input
+          aria-label="Domain"
           type="text"
           class="input"
           placeholder="Enter domain name here..."
