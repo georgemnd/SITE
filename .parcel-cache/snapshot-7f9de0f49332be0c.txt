@@ -1,6 +1,6 @@
 6059
 66D:\coding\WebDevelopement\SITE\node_modules\mdn-data\l10n\index.js134004376373898543 0
-35D:\coding\WebDevelopement\SITE\dist134005387550205707 1
+35D:\coding\WebDevelopement\SITE\dist134005417601229241 1
 89D:\coding\WebDevelopement\SITE\node_modules\caniuse-lite\data\features\wasm-tail-calls.js134004376504397816 0
 91D:\coding\WebDevelopement\SITE\node_modules\@parcel\transformer-json\lib\JSONTransformer.js134004376386568624 0
 79D:\coding\WebDevelopement\SITE\node_modules\stylehacks\src\plugins\important.js134004376381446570 0
@@ -15,7 +15,7 @@
 66D:\coding\WebDevelopement\SITE\node_modules\semver\functions\eq.js134004376398499894 0
 95D:\coding\WebDevelopement\SITE\node_modules\postcss-minify-font-values\src\lib\minify-family.js134004376371257196 0
 61D:\coding\WebDevelopement\SITE\node_modules\@msgpackr-extract134004376508910668 1
-43D:\coding\WebDevelopement\SITE\package.json134004376508958015 0
+43D:\coding\WebDevelopement\SITE\package.json134005417452709035 0
 77D:\coding\WebDevelopement\SITE\node_modules\caniuse-lite\data\features\url.js134004376503866773 0
 63D:\coding\WebDevelopement\SITE\node_modules\tslib\tslib.es6.mjs134004376386140715 0
 94D:\coding\WebDevelopement\SITE\node_modules\caniuse-lite\data\features\js-regexp-lookbehind.js134004376496933006 0
@@ -69,7 +69,7 @@
 96D:\coding\WebDevelopement\SITE\node_modules\postcss-ordered-values\src\rules\listStyleTypes.json134004376399656518 0
 97D:\coding\WebDevelopement\SITE\node_modules\csso\node_modules\css-tree\cjs\syntax\scope\index.cjs134004376447288061 0
 70D:\coding\WebDevelopement\SITE\node_modules\lightningcss\node\flags.js134004376393774478 0
-41D:\coding\WebDevelopement\SITE\index.html134005387190934072 0
+41D:\coding\WebDevelopement\SITE\index.html134005408805057230 0
 73D:\coding\WebDevelopement\SITE\node_modules\domutils\lib\stringify.js.map134004376431286095 0
 89D:\coding\WebDevelopement\SITE\node_modules\svgo\types\plugins\removeEmptyContainers.d.ts134004376472110083 0
 87D:\coding\WebDevelopement\SITE\node_modules\postcss-normalize-repeat-style\src\index.js134004376368137530 0
@@ -96,7 +96,7 @@
 74D:\coding\WebDevelopement\SITE\node_modules\@lmdb\lmdb-win32-x64\README.md134004376379004364 0
 48D:\coding\WebDevelopement\SITE\package-lock.json134004376509709591 0
 106D:\coding\WebDevelopement\SITE\node_modules\@parcel\core\test\fixtures\custom-targets-distdir\package.json134004376487833377 0
-45D:\coding\WebDevelopement\SITE\svgo.config.js134005387168802203 0
+45D:\coding\WebDevelopement\SITE\svgo.config.js134005417545492908 0
 75D:\coding\WebDevelopement\SITE\node_modules\caniuse-lite\data\regions\JO.js134004376496511222 0
 62D:\coding\WebDevelopement\SITE\node_modules\json5\package.json134004376389455305 0
 53D:\coding\WebDevelopement\SITE\node_modules\lilconfig134004376370467571 1
@@ -249,7 +249,7 @@
 71D:\coding\WebDevelopement\SITE\node_modules\weak-lru-cache\package.json134004376381349250 0
 95D:\coding\WebDevelopement\SITE\node_modules\caniuse-lite\data\features\css-container-queries.js134004376474710222 0
 81D:\coding\WebDevelopement\SITE\node_modules\postcss-normalize-unicode\LICENSE-MIT134004376367048538 0
-62D:\coding\WebDevelopement\SITE\dist\easy-original.03095825.jpg134005387541036113 0
+62D:\coding\WebDevelopement\SITE\dist\easy-original.03095825.jpg134005417600677927 0
 82D:\coding\WebDevelopement\SITE\node_modules\@parcel\runtime-js\lib\helpers\browser134004376431108727 1
 92D:\coding\WebDevelopement\SITE\node_modules\@swc\helpers\src\_class_apply_descriptor_get.mjs134004376493549536 0
 62D:\coding\WebDevelopement\SITE\node_modules\msgpackr\unpack.js134004376426218830 0
@@ -729,7 +729,7 @@
 65D:\coding\WebDevelopement\SITE\node_modules\source-map-js\LICENSE134004376367015213 0
 75D:\coding\WebDevelopement\SITE\node_modules\utility-types\dist\index.js.map134004376388479559 0
 76D:\coding\WebDevelopement\SITE\node_modules\regenerator-runtime\package.json134004376378215266 0
-58D:\coding\WebDevelopement\SITE\dist\banner@2x.6bd53eb3.png134005387540849813 0
+58D:\coding\WebDevelopement\SITE\dist\banner@2x.6bd53eb3.png134005417600666941 0
 95D:\coding\WebDevelopement\SITE\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_dump.c134004376432090705 0
 79D:\coding\WebDevelopement\SITE\node_modules\svgo\types\plugins\removeXMLNS.d.ts134004376480259134 0
 74D:\coding\WebDevelopement\SITE\node_modules\type-fest\source\value-of.d.ts134004376429555402 0
@@ -1053,7 +1053,7 @@
 75D:\coding\WebDevelopement\SITE\node_modules\svgo\plugins\convertPathData.js134004376437083445 0
 74D:\coding\WebDevelopement\SITE\node_modules\@parcel\watcher\src\DirTree.cc134004376384664748 0
 56D:\coding\WebDevelopement\SITE\node_modules\svgo\LICENSE134004376367015213 0
-59D:\coding\WebDevelopement\SITE\dist\support@1x.36253b40.jpg134005387548722336 0
+59D:\coding\WebDevelopement\SITE\dist\support@1x.36253b40.jpg134005417600677927 0
 69D:\coding\WebDevelopement\SITE\node_modules\@parcel\core\src\utils.js134004376484888108 0
 80D:\coding\WebDevelopement\SITE\node_modules\@parcel\watcher\src\watchman\BSER.cc134004376380324580 0
 62D:\coding\WebDevelopement\SITE\node_modules\boolbase\README.md134004376367909969 0
@@ -1387,6 +1387,7 @@
 60D:\coding\WebDevelopement\SITE\node_modules\svgo\lib\xast.js134004376424416974 0
 75D:\coding\WebDevelopement\SITE\node_modules\msgpackr\dist\index-no-eval.cjs134004376379142934 0
 64D:\coding\WebDevelopement\SITE\node_modules\svgo\lib\svgo\coa.js134004376417481896 0
+56D:\coding\WebDevelopement\SITE\dist\popular.ca183884.svg134005417600943280 0
 80D:\coding\WebDevelopement\SITE\node_modules\stylehacks\types\plugins\slash9.d.ts134004376441499993 0
 95D:\coding\WebDevelopement\SITE\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_stat.c134004376433620661 0
 75D:\coding\WebDevelopement\SITE\node_modules\@parcel\profiler\lib\types.d.ts134004376414397075 0
@@ -1452,7 +1453,6 @@
 73D:\coding\WebDevelopement\SITE\node_modules\postcss-merge-rules\types\lib134004376381680651 1
 57D:\coding\WebDevelopement\SITE\node_modules\.bin\svgo.cmd134004376505199740 0
 98D:\coding\WebDevelopement\SITE\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest_remap.c134004376452134069 0
-53D:\coding\WebDevelopement\SITE\dist\SITE.8e2a9935.css134005387550025997 0
 76D:\coding\WebDevelopement\SITE\node_modules\stylehacks\types\plugin.d.ts.map134004376426582965 0
 75D:\coding\WebDevelopement\SITE\node_modules\caniuse-lite\data\regions\AF.js134004376384230534 0
 97D:\coding\WebDevelopement\SITE\node_modules\caniuse-lite\data\features\background-position-x-y.js134004376438284428 0
@@ -1626,7 +1626,6 @@
 90D:\coding\WebDevelopement\SITE\node_modules\entities\lib\generated\decode-data-html.js.map134004376418125987 0
 91D:\coding\WebDevelopement\SITE\node_modules\caniuse-lite\data\features\createimagebitmap.js134004376469797003 0
 70D:\coding\WebDevelopement\SITE\node_modules\semver\functions\coerce.js134004376379174288 0
-56D:\coding\WebDevelopement\SITE\dist\popular.e8eef43c.svg134005387548722336 0
 61D:\coding\WebDevelopement\SITE\node_modules\csso\package.json134004376460862609 0
 58D:\coding\WebDevelopement\SITE\node_modules\nanoid\LICENSE134004376367015213 0
 67D:\coding\WebDevelopement\SITE\node_modules\is-extglob\package.json134004376367015213 0
@@ -2280,6 +2279,7 @@
 98D:\coding\WebDevelopement\SITE\node_modules\@parcel\runtime-browser-hmr\src\loaders\.eslintrc.json134004376410131609 0
 61D:\coding\WebDevelopement\SITE\node_modules\postcss\README.md134004376419722950 0
 90D:\coding\WebDevelopement\SITE\node_modules\caniuse-lite\data\features\cookie-store-api.js134004376469005319 0
+68D:\coding\WebDevelopement\SITE\dist\skyfy-logo-wordmark.05d31776.svg134005417601010505 0
 87D:\coding\WebDevelopement\SITE\node_modules\@parcel\core\test\PublicEnvironment.test.js134004376475558267 0
 68D:\coding\WebDevelopement\SITE\node_modules\postcss\lib\at-rule.d.ts134004376423171773 0
 66D:\coding\WebDevelopement\SITE\node_modules\postcss\lib\at-rule.js134004376368300841 0
@@ -2606,7 +2606,6 @@
 75D:\coding\WebDevelopement\SITE\node_modules\caniuse-lite\data\regions\CD.js134004376460247207 0
 95D:\coding\WebDevelopement\SITE\node_modules\entities\lib\esm\generated\decode-data-xml.d.ts.map134004376418898330 0
 115D:\coding\WebDevelopement\SITE\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages.cmd134004376505189693 0
-53D:\coding\WebDevelopement\SITE\dist\tick.2c6066c7.svg134005387549315599 0
 78D:\coding\WebDevelopement\SITE\node_modules\domutils\lib\manipulation.d.ts.map134004376424221049 0
 76D:\coding\WebDevelopement\SITE\node_modules\entities\lib\esm\encode.d.ts.map134004376430091475 0
 75D:\coding\WebDevelopement\SITE\node_modules\@swc\helpers\_\_async_generator134004376484100895 1
@@ -3511,9 +3510,8 @@
 96D:\coding\WebDevelopement\SITE\node_modules\csso\node_modules\css-tree\cjs\lexer\match-graph.cjs134004376451584498 0
 87D:\coding\WebDevelopement\SITE\node_modules\css-tree\cjs\syntax\node\common\feature.cjs134004376430232840 0
 99D:\coding\WebDevelopement\SITE\node_modules\csso\node_modules\css-tree\cjs\lexer\prepare-tokens.cjs134004376458359064 0
-64D:\coding\WebDevelopement\SITE\dist\banner-original.3146cfd7.png134005387548697081 0
+64D:\coding\WebDevelopement\SITE\dist\banner-original.3146cfd7.png134005417600677927 0
 95D:\coding\WebDevelopement\SITE\node_modules\csso\node_modules\css-tree\cjs\generator\create.cjs134004376412435068 0
-55D:\coding\WebDevelopement\SITE\dist\sprite.bb94cf83.svg134005387541036113 0
 101D:\coding\WebDevelopement\SITE\node_modules\csso\node_modules\css-tree\cjs\generator\token-before.cjs134004376466024072 0
 75D:\coding\WebDevelopement\SITE\node_modules\caniuse-lite\data\regions\BW.js134004376456834622 0
 105D:\coding\WebDevelopement\SITE\node_modules\csso\node_modules\css-tree\cjs\definition-syntax\generate.cjs134004376429655735 0
@@ -3638,6 +3636,7 @@
 77D:\coding\WebDevelopement\SITE\node_modules\cssnano-utils\types\rawCache.d.ts134004376391347401 0
 79D:\coding\WebDevelopement\SITE\node_modules\cssnano-utils\types\sameParent.d.ts134004376392386214 0
 40D:\coding\WebDevelopement\SITE\.cache\2e134004364449516529 1
+55D:\coding\WebDevelopement\SITE\dist\sprite.dac04318.svg134005417600923219 0
 83D:\coding\WebDevelopement\SITE\node_modules\cssnano-utils\types\sameParent.d.ts.map134004376382737237 0
 40D:\coding\WebDevelopement\SITE\.cache\d2134004364446787141 1
 70D:\coding\WebDevelopement\SITE\node_modules\cssnano-utils\src\index.js134004376369211157 0
@@ -3954,6 +3953,7 @@
 80D:\coding\WebDevelopement\SITE\node_modules\css-tree\cjs\syntax\atrule\index.cjs134004376449384586 0
 89D:\coding\WebDevelopement\SITE\node_modules\caniuse-lite\data\features\resource-timing.js134004376501188778 0
 80D:\coding\WebDevelopement\SITE\node_modules\css-tree\cjs\syntax\atrule\layer.cjs134004376453999768 0
+57D:\coding\WebDevelopement\SITE\dist\SITE.3f5a1a34.css.map134005417601170684 0
 80D:\coding\WebDevelopement\SITE\node_modules\css-tree\cjs\syntax\atrule\media.cjs134004376457503504 0
 79D:\coding\WebDevelopement\SITE\node_modules\css-tree\cjs\syntax\atrule\nest.cjs134004376460420648 0
 75D:\coding\WebDevelopement\SITE\node_modules\caniuse-lite\data\regions\BG.js134004376447336686 0
@@ -4533,7 +4533,7 @@
 88D:\coding\WebDevelopement\SITE\node_modules\caniuse-lite\data\features\form-attribute.js134004376494832403 0
 81D:\coding\WebDevelopement\SITE\node_modules\caniuse-lite\data\features\gamepad.js134004376494963797 0
 85D:\coding\WebDevelopement\SITE\node_modules\caniuse-lite\data\features\geolocation.js134004376495050614 0
-56D:\coding\WebDevelopement\SITE\dist\easy@1x.de59d2f0.jpg134005387541036113 0
+56D:\coding\WebDevelopement\SITE\dist\easy@1x.de59d2f0.jpg134005417600666941 0
 72D:\coding\WebDevelopement\SITE\node_modules\@parcel\profiler\build-ts.js134004376379315924 0
 90D:\coding\WebDevelopement\SITE\node_modules\caniuse-lite\data\features\getcomputedstyle.js134004376495096583 0
 85D:\coding\WebDevelopement\SITE\node_modules\@swc\helpers\cjs\_to_consumable_array.cjs134004376456257479 0
@@ -4879,7 +4879,6 @@
 78D:\coding\WebDevelopement\SITE\node_modules\@swc\helpers\src\_to_primitive.mjs134004376494677730 0
 92D:\coding\WebDevelopement\SITE\node_modules\@swc\helpers\src\_ts_add_disposable_resource.mjs134004376494722311 0
 86D:\coding\WebDevelopement\SITE\node_modules\@swc\helpers\src\_ts_dispose_resources.mjs134004376494756949 0
-57D:\coding\WebDevelopement\SITE\dist\SITE.8e2a9935.css.map134005387550168660 0
 78D:\coding\WebDevelopement\SITE\node_modules\@swc\helpers\src\_ts_generator.mjs134004376494778128 0
 77D:\coding\WebDevelopement\SITE\node_modules\@swc\helpers\src\_ts_metadata.mjs134004376494793159 0
 40D:\coding\WebDevelopement\SITE\.cache\23134004364442036884 1
@@ -5115,7 +5114,7 @@
 107D:\coding\WebDevelopement\SITE\node_modules\@parcel\workers\test\integration\workerfarm\shared-reference.js134004376428605862 0
 89D:\coding\WebDevelopement\SITE\node_modules\@parcel\runtime-js\lib\helpers\cacheLoader.js134004376396811741 0
 74D:\coding\WebDevelopement\SITE\node_modules\@parcel\workers\src\backend.js134004376381848076 0
-57D:\coding\WebDevelopement\SITE\dist\SITE.ef581e40.css.map134005387550089003 0
+57D:\coding\WebDevelopement\SITE\dist\SITE.ef581e40.css.map134005417601109716 0
 77D:\coding\WebDevelopement\SITE\node_modules\@parcel\workers\src\childState.js134004376396244537 0
 78D:\coding\WebDevelopement\SITE\node_modules\@parcel\workers\src\core-worker.js134004376409164225 0
 71D:\coding\WebDevelopement\SITE\node_modules\@parcel\workers\src\threads134004376430712407 1
@@ -5273,7 +5272,7 @@
 76D:\coding\WebDevelopement\SITE\.cache\da\383185b407064697494de9dc387227.json134004378732009243 0
 40D:\coding\WebDevelopement\SITE\.cache\43134004365651879919 1
 105D:\coding\WebDevelopement\SITE\node_modules\@parcel\transformer-react-refresh-wrap\lib\helpers\helpers.js134004376387025494 0
-59D:\coding\WebDevelopement\SITE\dist\support@2x.e9f52e40.jpg134005387541036113 0
+59D:\coding\WebDevelopement\SITE\dist\support@2x.e9f52e40.jpg134005417600693006 0
 64D:\coding\WebDevelopement\SITE\node_modules\@parcel\rust\LICENSE134004376378472033 0
 75D:\coding\WebDevelopement\SITE\node_modules\@parcel\transformer-raw\LICENSE134004376382723369 0
 69D:\coding\WebDevelopement\SITE\node_modules\@parcel\rust\package.json134004376393257456 0
@@ -5304,7 +5303,7 @@
 87D:\coding\WebDevelopement\SITE\node_modules\@parcel\transformer-js\src\JSTransformer.js134004376399668262 0
 90D:\coding\WebDevelopement\SITE\node_modules\@parcel\transformer-js\lib\esmodule-helpers.js134004376387154900 0
 87D:\coding\WebDevelopement\SITE\node_modules\@parcel\transformer-js\lib\JSTransformer.js134004376393267928 0
-62D:\coding\WebDevelopement\SITE\dist\ipad-original.d8699945.png134005387541036113 0
+62D:\coding\WebDevelopement\SITE\dist\ipad-original.d8699945.png134005417600693006 0
 107D:\coding\WebDevelopement\SITE\node_modules\@parcel\core\test\fixtures\invalid-source-not-file\src\index.js134004376461152524 0
 73D:\coding\WebDevelopement\SITE\node_modules\@parcel\transformer-image\lib134004376398085328 1
 73D:\coding\WebDevelopement\SITE\node_modules\@parcel\transformer-image\src134004376400174882 1
@@ -5461,7 +5460,7 @@
 72D:\coding\WebDevelopement\SITE\node_modules\@parcel\packager-svg\LICENSE134004376391402312 0
 77D:\coding\WebDevelopement\SITE\node_modules\@parcel\packager-svg\package.json134004376399941789 0
 68D:\coding\WebDevelopement\SITE\node_modules\@parcel\packager-raw\lib134004376391821414 1
-62D:\coding\WebDevelopement\SITE\dist\fast-original.8cede02c.jpg134005387548722336 0
+62D:\coding\WebDevelopement\SITE\dist\fast-original.8cede02c.jpg134005417600677927 0
 86D:\coding\WebDevelopement\SITE\node_modules\@parcel\packager-js\src\ESMOutputFormat.js134004376411282099 0
 83D:\coding\WebDevelopement\SITE\node_modules\@parcel\packager-raw\src\RawPackager.js134004376396710057 0
 82D:\coding\WebDevelopement\SITE\node_modules\@parcel\packager-js\src\.eslintrc.json134004376423393746 0
@@ -5636,7 +5635,7 @@
 86D:\coding\WebDevelopement\SITE\node_modules\@parcel\core\test\PublicDependency.test.js134004376475397769 0
 94D:\coding\WebDevelopement\SITE\node_modules\@parcel\core\test\PublicMutableBundleGraph.test.js134004376475684809 0
 84D:\coding\WebDevelopement\SITE\node_modules\@parcel\core\test\RequestTracker.test.js134004376481247074 0
-60D:\coding\WebDevelopement\SITE\dist\testimonial.479a636c.jpg134005387548722336 0
+60D:\coding\WebDevelopement\SITE\dist\testimonial.479a636c.jpg134005417600693006 0
 80D:\coding\WebDevelopement\SITE\node_modules\@parcel\core\test\serializer.test.js134004376481599488 0
 87D:\coding\WebDevelopement\SITE\node_modules\@parcel\core\test\SymbolPropagation.test.js134004376482277211 0
 40D:\coding\WebDevelopement\SITE\.cache\41134004364442660809 1
@@ -5736,7 +5735,7 @@
 82D:\coding\WebDevelopement\SITE\node_modules\@parcel\core\src\public\BundleGraph.js134004376446784235 0
 82D:\coding\WebDevelopement\SITE\node_modules\@parcel\core\src\public\BundleGroup.js134004376449188709 0
 81D:\coding\WebDevelopement\SITE\node_modules\@parcel\core\src\public\Dependency.js134004376455251321 0
-65D:\coding\WebDevelopement\SITE\dist\support-original.cf85ec69.jpg134005387548732310 0
+65D:\coding\WebDevelopement\SITE\dist\support-original.cf85ec69.jpg134005417600693006 0
 84D:\coding\WebDevelopement\SITE\node_modules\@parcel\core\src\public\PluginOptions.js134004376472389216 0
 77D:\coding\WebDevelopement\SITE\node_modules\@parcel\core\src\public\Target.js134004376482812034 0
 74D:\coding\WebDevelopement\SITE\node_modules\@parcel\core\lib\assetUtils.js134004376433378639 0
@@ -5869,22 +5868,23 @@
 53D:\coding\WebDevelopement\SITE\images\testimonial.jpg133968855360571568 0
 54D:\coding\WebDevelopement\SITE\images\wordpress@2x.jpg134002507288217074 0
 43D:\coding\WebDevelopement\SITE\images\x.svg133969044465574478 0
-58D:\coding\WebDevelopement\SITE\dist\banner@1x.f6377846.png134005387548697081 0
-56D:\coding\WebDevelopement\SITE\dist\easy@2x.89dbf710.jpg134005387548722336 0
-56D:\coding\WebDevelopement\SITE\dist\fast@1x.b52e442b.jpg134005387548712168 0
-56D:\coding\WebDevelopement\SITE\dist\fast@2x.87be1af0.jpg134005387541036113 0
+58D:\coding\WebDevelopement\SITE\dist\banner@1x.f6377846.png134005417600351209 0
+56D:\coding\WebDevelopement\SITE\dist\easy@2x.89dbf710.jpg134005417600677927 0
+56D:\coding\WebDevelopement\SITE\dist\fast@1x.b52e442b.jpg134005417600677927 0
+56D:\coding\WebDevelopement\SITE\dist\fast@2x.87be1af0.jpg134005417600677927 0
 76D:\coding\WebDevelopement\SITE\.cache\3f\8b1fa6d9d29be7bae0bf0d3ed210f1.json134004378732109927 0
-46D:\coding\WebDevelopement\SITE\dist\index.html134005387550025997 0
-56D:\coding\WebDevelopement\SITE\dist\ipad@1x.596aa8d6.png134005387541036113 0
-56D:\coding\WebDevelopement\SITE\dist\ipad@2x.6d535043.png134005387548722336 0
-52D:\coding\WebDevelopement\SITE\dist\SITE.8c7de5d6.js134005387550025997 0
-56D:\coding\WebDevelopement\SITE\dist\SITE.8c7de5d6.js.map134005387550089003 0
-53D:\coding\WebDevelopement\SITE\dist\SITE.ef581e40.css134005387550015853 0
-68D:\coding\WebDevelopement\SITE\dist\skyfy-logo-wordmark.8de45ca0.svg134005387541359756 0
-67D:\coding\WebDevelopement\SITE\dist\wordpress-original.69715792.jpg134005387541036113 0
-61D:\coding\WebDevelopement\SITE\dist\wordpress@1x.bb1a5e66.jpg134005387541036113 0
-61D:\coding\WebDevelopement\SITE\dist\wordpress@2x.0f416b57.jpg134005387548722336 0
-50D:\coding\WebDevelopement\SITE\dist\x.6381b734.svg134005387541036113 0
+46D:\coding\WebDevelopement\SITE\dist\index.html134005417601052564 0
+56D:\coding\WebDevelopement\SITE\dist\ipad@1x.596aa8d6.png134005417600693006 0
+56D:\coding\WebDevelopement\SITE\dist\ipad@2x.6d535043.png134005417600693006 0
+53D:\coding\WebDevelopement\SITE\dist\SITE.3f5a1a34.css134005417601052564 0
+52D:\coding\WebDevelopement\SITE\dist\SITE.8c7de5d6.js134005417601052564 0
+56D:\coding\WebDevelopement\SITE\dist\SITE.8c7de5d6.js.map134005417601109716 0
+53D:\coding\WebDevelopement\SITE\dist\SITE.ef581e40.css134005417601052564 0
+53D:\coding\WebDevelopement\SITE\dist\tick.f2148c49.svg134005417601040452 0
+67D:\coding\WebDevelopement\SITE\dist\wordpress-original.69715792.jpg134005417600677927 0
+61D:\coding\WebDevelopement\SITE\dist\wordpress@1x.bb1a5e66.jpg134005417600677927 0
+61D:\coding\WebDevelopement\SITE\dist\wordpress@2x.0f416b57.jpg134005417600677927 0
+50D:\coding\WebDevelopement\SITE\dist\x.97d82ebc.svg134005417600892590 0
 45D:\coding\WebDevelopement\SITE\css\styles.css134005387213755345 0
 53D:\coding\WebDevelopement\SITE\components\badges.html133969020305511345 0
 59D:\coding\WebDevelopement\SITE\components\block-domain.html134002463088455731 0

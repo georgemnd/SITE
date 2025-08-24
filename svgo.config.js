@@ -1,15 +1,5 @@
+// TODO: Find a better way to keep the logo as is.
+
 module.exports = {
-  plugins: [
-    {
-      name: 'preset-default',
-      params: {
-        overrides: {
-          // keep <symbol> content and IDs intact
-          removeHiddenElems: false,
-          cleanupIDs: false,
-          removeUselessDefs: false
-        }
-      }
-    }
-  ]
+  plugins: [] // disable all optimizations
 };
