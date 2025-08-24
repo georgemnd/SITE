@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="631" height="125" viewBox="81.96 166.15999999999997 633.2352000000001 125.48000000000002"><ns0:defs xmlns:ns0="http://www.w3.org/2000/svg">
+    
+    <ns0:linearGradient id="Sgradient" x1="0" y1="0" x2="0" y2="1">
+      <ns0:stop offset="0%" stop-color="#ff3300"/>
+      <ns0:stop offset="50%" stop-color="#ff6600"/>
+      <ns0:stop offset="100%" stop-color="#ffaa33"/>
+    </ns0:linearGradient>
+    
+    
+    <!-- Gradient for cloud (unchanged) -->
+    <ns0:linearGradient id="cloudGrad" x1="0" y1="0" x2="0" y2="1">
+      <ns0:stop offset="0%" stop-color="#ffffff" stop-opacity="0.95"/>
+      <ns0:stop offset="100%" stop-color="#00d9ff" stop-opacity="0.55"/>
+    </ns0:linearGradient>
+
+  </ns0:defs>
+  
+  <ns1:g xmlns:ns1="http://www.w3.org/2000/svg" transform="translate(240,245)">
+    <ns1:path d="M -118,28              C -150,28  -152,-6  -118,-6                C -104,-42  -58,-56  -22,-40                C  -6,-70    44,-70    70,-44                C 106,-60   134,-32   120,-10                C 150,-10   150,28    118,28                L -118,28 Z" fill="url(#cloudGrad)"/>
+  </ns1:g>
+
+  
+  <ns2:g xmlns:ns2="http://www.w3.org/2000/svg" transform="translate(240,250) scale(0.80) translate(0,-32)">
+    <ns2:path d="M80 -40              Q 40 -70 0 -40              Q -30 -10 20 0              Q 70 10 40 40              Q 0 70 -40 40" fill="none" stroke="url(#Sgradient)" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+  </ns2:g>
+
+<text x="399.3184" y="273.0" fill="#f7f7f7" style="font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif; font-weight:800; font-size:81.536px; dominant-baseline:alphabetic;">Skyfy</text></svg>
