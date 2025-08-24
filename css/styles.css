@@ -610,6 +610,17 @@ a {
     }
 }
 
+@media screen and (min-width: 1024px) {
+    .testimonial .quote,
+    .testimonial .quote__author {
+        font-size: 4rem;
+    }
+
+    .testimonial .quote {
+        align-self: center;
+    }
+}
+
 /* Callouts ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
 
 .callout {
